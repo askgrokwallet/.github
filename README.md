@@ -4,8 +4,8 @@
   <p><strong>A governed wallet for Grok agents.</strong><br>Small things run. Big things ask. Everything receipts.</p>
   <p><em>agents run · humans rule · proof settles</em></p>
   <p>
-    <a href="http://askgrokwallet.43.133.140.70.nip.io/pitch.html">Live demo</a> ·
-    <a href="http://askgrokwallet-demo.43.133.140.70.nip.io/approvals">Demo inbox</a> ·
+    <a href="https://askgrokwallet.io/pitch.html">Live demo</a> ·
+    <a href="https://askgrokwallet.io/approvals">Demo inbox</a> ·
     <a href="https://github.com/askgrokwallet/askgrokwallet">Plugin repo</a> ·
     <a href="https://github.com/xai-org/plugin-marketplace/pull/341">Marketplace PR</a>
   </p>
